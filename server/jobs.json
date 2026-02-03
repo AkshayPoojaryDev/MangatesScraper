@@ -1,0 +1,58 @@
+{
+  "13bc13cf-73ec-45f5-8ac0-e8704a4ef279": {
+    "id": "13bc13cf-73ec-45f5-8ac0-e8704a4ef279",
+    "status": "completed",
+    "progress": 100,
+    "logs": [
+      "Searching: agile",
+      "FAILED: agile",
+      "Job Finished."
+    ],
+    "success": [],
+    "failed": [
+      "Agile Mangates"
+    ]
+  },
+  "63999c16-2c22-4a73-bb86-00a2216d7bc6": {
+    "id": "63999c16-2c22-4a73-bb86-00a2216d7bc6",
+    "status": "completed",
+    "progress": 100,
+    "logs": [
+      "Searching: telephone customer service - find a way to say yes!",
+      "FAILED: telephone customer service - find a way to say yes!",
+      "Job Finished."
+    ],
+    "success": [],
+    "failed": [
+      "Telephone Customer Service - Find a way to say YES!"
+    ]
+  },
+  "c6f5abb0-9754-4ad7-a968-e6f82afad0a8": {
+    "id": "c6f5abb0-9754-4ad7-a968-e6f82afad0a8",
+    "status": "completed",
+    "progress": 100,
+    "logs": [
+      "Searching: telephone customer service - find a way to say yes",
+      "FAILED: telephone customer service - find a way to say yes",
+      "Job Finished."
+    ],
+    "success": [],
+    "failed": [
+      "Telephone Customer Service - Find a way to say YES mangates"
+    ]
+  },
+  "2f94bba8-342c-439a-99d4-6585a74ffe19": {
+    "id": "2f94bba8-342c-439a-99d4-6585a74ffe19",
+    "status": "completed",
+    "progress": 100,
+    "logs": [
+      "Searching: telephone-customer-service-find-a-way-to-say-yes",
+      "FAILED: telephone-customer-service-find-a-way-to-say-yes",
+      "Job Finished."
+    ],
+    "success": [],
+    "failed": [
+      "telephone-customer-service-find-a-way-to-say-yes"
+    ]
+  }
+}
